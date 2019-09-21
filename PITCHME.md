@@ -60,6 +60,13 @@ https://play.google.com/store/apps/details?id=com.machadev.android.nicepassreade
 
 ---
 
+### 浜松IT合同勉強会
+- 毎年恒例のLT大会＆忘年会を計画中
+- 11月下旬 or 12月上旬を予定
+- 告知＆募集はconnpassで！
+
+---
+
 ご静聴ありがとうございました。
 
 

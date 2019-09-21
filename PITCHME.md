@@ -41,6 +41,7 @@ https://jaghama.connpass.com/event/147517/
 - 量子力学的な重ね合わせを用いて並列性を実現するとされるコンピュータ。
 https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF
 
+
 ----
 
 ### 自作アプリ紹介

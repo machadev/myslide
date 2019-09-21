@@ -36,7 +36,6 @@ https://tortoisegit.org/
 https://jaghama.connpass.com/event/147517/
 
 ---
-
 量子コンピュータとは？
 - 量子力学的な重ね合わせを用いて並列性を実現するとされるコンピュータ。
 - 従来のコンピュータの論理ゲートに代えて、「量子ゲート」を用いて量子計算を行う原理のものについて研究がさかんであるが、他の方式についても研究・開発は行われている。
@@ -53,7 +52,6 @@ https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%8
 
 ダウンロードはこちら  
 https://play.google.com/store/apps/details?id=com.machadev.android.nicepassreader&hl=ja
-
 
 ---
 

@@ -1,4 +1,5 @@
-### GitPitch&Gistを使って資料を作ってみた
+### GitPitcでスライド作ってみた
+
 
 2019/9/21 まーくん@macha1972  
 日本Androidの会 浜松支部
@@ -35,6 +36,7 @@ https://tortoisegit.org/
 https://jaghama.connpass.com/event/147517/
 
 ---
+
 量子コンピュータとは？
 量子力学的な重ね合わせを用いて並列性を実現するとされるコンピュータ。
 
@@ -53,5 +55,10 @@ https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E3%82%B3%E3%83%B3%E3%83%94%E3%8
 
 ダウンロードはこちら  
 https://play.google.com/store/apps/details?id=com.machadev.android.nicepassreader&hl=ja
+
+
+---
+
+ご静聴ありがとうございました。
 
 
